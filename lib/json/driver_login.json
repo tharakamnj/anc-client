@@ -1,0 +1,18 @@
+{
+    "payload": [
+        {
+            "driverId": 1,
+            "username": "thara",
+            "password": null,
+            "licenceNo": "156456BN",
+            "lat": 0.0,
+            "lon": 0.0,
+            "mobileNo": "0717777899",
+            "deviceId": "543",
+            "status": "ACTIVE",
+            "driverTrips": null
+        }
+    ],
+    "errorMessages": [],
+    "status": 1
+}

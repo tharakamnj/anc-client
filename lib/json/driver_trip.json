@@ -1,0 +1,18 @@
+{
+    "payload": [
+        [
+            {
+                "driverTripId": 7,
+                "tripType": "UP",
+                "startTime": "2022-10-18T14:09:24",
+                "endTime": "2022-10-18T14:31:44",
+                "startLat": 1.7678,
+                "startLon": 4.0978,
+                "endLat": 5.997,
+                "endLon": 9.0077
+            }
+        ]
+    ],
+    "errorMessages": [],
+    "status": 1
+}

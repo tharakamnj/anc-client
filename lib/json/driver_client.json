@@ -1,0 +1,38 @@
+{
+    "payload": [
+        [
+            {
+                "clientId": 5,
+                "clientName": "theji",
+                "lat": 1.00087,
+                "lon": 1.98788,
+                "mobileNo": "0753341",
+                "deviceId": null,
+                "status": "ACTIVE",
+                "trips": null
+            },
+            {
+                "clientId": 6,
+                "clientName": "mano",
+                "lat": 1.00087,
+                "lon": 1.98788,
+                "mobileNo": "07533417",
+                "deviceId": null,
+                "status": "ACTIVE",
+                "trips": null
+            },
+            {
+                "clientId": 9,
+                "clientName": "john",
+                "lat": 1.00087,
+                "lon": 1.98788,
+                "mobileNo": "075334173",
+                "deviceId": null,
+                "status": "ACTIVE",
+                "trips": null
+            }
+        ]
+    ],
+    "errorMessages": [],
+    "status": 1
+}

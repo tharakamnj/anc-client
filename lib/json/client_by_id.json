@@ -1,0 +1,28 @@
+{
+    "payload": [
+        {
+            "clientId": 5,
+            "clientName": "theji",
+            "lat": 1.00087,
+            "lon": 1.98788,
+            "mobileNo": "0753341",
+            "deviceId": null,
+            "status": "ACTIVE",
+            "trips": [
+                {
+                    "tripId": 8,
+                    "tripType": "DOWN",
+                    "pickUp": null,
+                    "dropOut": "2022-10-18T14:15:02",
+                    "pickLat": 0.0,
+                    "pickLon": 0.0,
+                    "dropLat": 1.887,
+                    "dropLon": 6.8899,
+                    "driverTripId": "7"
+                }
+            ]
+        }
+    ],
+    "errorMessages": [],
+    "status": 1
+}
